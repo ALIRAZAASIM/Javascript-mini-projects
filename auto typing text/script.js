@@ -29,4 +29,4 @@ let intervalId = setInterval(() => {
   if (word === textValues.length) {
     word = 0;
   }
-}, 200);
+}, 500);
